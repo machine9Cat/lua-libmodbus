@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sw-description": "java",
+        "*.json": "jsonc",
+        "*.C": "c",
+        "lua.h": "c"
+    }
+}

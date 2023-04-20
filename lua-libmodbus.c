@@ -46,7 +46,7 @@ call them as member functions on the context returned by the new() functions.
 #include <lualib.h>
 #include <lauxlib.h>
 
-#include <modbus/modbus.h>
+#include <modbus.h>
 
 #include "compat.h"
 
